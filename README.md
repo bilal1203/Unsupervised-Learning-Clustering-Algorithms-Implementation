@@ -20,6 +20,8 @@ After submitting the files to the Kaggle competition and evaluating them based o
 - **Private Score:** 0.81464
 - **Public Score:** 0.81777
 
+![](kaggle_submissions.png)
+
 ## 4. Project Structure
 Unsupervised-Learning-Clustering-Algorithms-Implementation<br>
 ├── DataPreprocessing<br>
