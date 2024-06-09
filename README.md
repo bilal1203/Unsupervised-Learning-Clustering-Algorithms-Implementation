@@ -9,6 +9,17 @@ For this challenge, participants were provided with (simulated) manufacturing co
 ## 3. Evaluation
 Submissions were evaluated on the Adjusted Rand Index between the ground truth cluster labels of the data and the predicted cluster labels. As this is a completely unsupervised problem, no information regarding the number of ground truth clusters or any training labels was provided.
 
+### 3.1 Evaluation Results
+After submitting the files to the Kaggle competition and evaluating them based on the Adjusted Rand Index:
+
+### 3.1.1. Unsupervised Clustering
+- **Private Score:** 0.59619
+- **Public Score:** 0.59572
+
+### 3.1.2. Semi-Supervised Clustering
+- **Private Score:** 0.81464
+- **Public Score:** 0.81777
+
 ## 4. Project Structure
 Unsupervised-Learning-Clustering-Algorithms-Implementation<br>
 ├── DataPreprocessing<br>
@@ -92,18 +103,7 @@ This code implements semi-supervised clustering and classification using various
 5. Defining Various Classification Models for Semi-Supervised Learning
 6. Training the Semi-Supervised Clustering Algorithms and Saving the Outputs for Submission
 
-## 9. Evaluation Results
-After submitting the files to the Kaggle competition and evaluating them based on the Adjusted Rand Index:
-
-### 9.1. Unsupervised Clustering
-- Private Score: 0.59619
-- Public Score: 0.59572
-
-### 9.2. Semi-Supervised Clustering
-- Private Score: 0.81464
-- Public Score: 0.81777
-
 These results indicate a significant improvement in performance when employing semi-supervised learning compared to unsupervised learning alone.
 
-## 10. License
+## 9. License
 This project is licensed under the [MIT License](LICENSE).
