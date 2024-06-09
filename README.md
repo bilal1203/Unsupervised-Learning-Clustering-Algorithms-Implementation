@@ -4,7 +4,7 @@
 Welcome to Unsupervised Learning Clustering Challenge! This solution was crafted specifically for participation in Kaggle's competition. In this challenge, participants were given a dataset where each row belongs to a particular cluster. The task was to predict the cluster each row belongs to without any prior training data or knowledge of the number of clusters in the ground truth labels.
 
 <center>
-![](intro.jpeg)
+<img src="intro.jpeg" alt="Image">
 </center>
 
 ## 2. Dataset Description
