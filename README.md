@@ -33,7 +33,7 @@ Unsupervised-Learning-Clustering-Algorithms-Implementation<br>
 └── README.md<br>
 
 ## 5. Exploratory Data Analysis (EDA)
-File: [`EDA.ipynb`](EDA\EDA.ipynb)
+File: [`EDA.ipynb`](EDA/EDA.ipynb)
 
 ### 5.1. Description:
 This notebook conducts exploratory data analysis on the manufacturing control dataset. It covers preliminary data exploration, distribution analysis of discrete and continuous features, KDE plots, correlation analysis, hypothesis testing for normality and Poisson distribution, and Q-Q plot analysis.
@@ -50,7 +50,7 @@ This notebook conducts exploratory data analysis on the manufacturing control da
 - Cluster quality analysis
 
 ## 6. Data Preprocessing
-File: [`DataPreprocessing.ipynb`](DataPreprocessing\DataPreprocessing.ipynb)
+File: [`DataPreprocessing.ipynb`](DataPreprocessing/DataPreprocessing.ipynb)
 
 ### 6.1. Description:
 This code performs several tasks related to data preprocessing, clustering, and feature selection.
@@ -65,7 +65,7 @@ This code performs several tasks related to data preprocessing, clustering, and 
 7. Fitting GMM and Visualizing Cluster Means
 
 ## 7. Modeling - Unsupervised Clustering
-File: [`Modeling-UnSupervised-Clustering.ipynb`](Modeling-UnSupervised-Clustering\Modeling-UnSupervised-Clustering.ipynb)
+File: [`Modeling-UnSupervised-Clustering.ipynb`](Modeling-UnSupervised-Clustering/Modeling-UnSupervised-Clustering.ipynb)
 
 ### 7.1. Description:
 This code focuses on clustering the data using Gaussian Mixture Models (GMM) and Bayesian Gaussian Mixture Models (BGMM).
@@ -79,7 +79,7 @@ This code focuses on clustering the data using Gaussian Mixture Models (GMM) and
 6. Print Results
 
 ## 8. Modeling - Semi-Supervised Clustering
-File: [`Modeling-SemiSupervised-Clustering.ipynb`](Modeling-SemiSupervised-Clustering\Modeling-SemiSupervised-Clustering.ipynb)
+File: [`Modeling-SemiSupervised-Clustering.ipynb`](Modeling-SemiSupervised-Clustering/Modeling-SemiSupervised-Clustering.ipynb)
 
 ### 8.1. Description:
 This code implements semi-supervised clustering and classification using various models and techniques.
