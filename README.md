@@ -3,6 +3,8 @@
 ## 1. Description
 Welcome to Unsupervised Learning Clustering Challenge! This solution was crafted specifically for participation in Kaggle's competition. In this challenge, participants were given a dataset where each row belongs to a particular cluster. The task was to predict the cluster each row belongs to without any prior training data or knowledge of the number of clusters in the ground truth labels.
 
+![](intro.jpeg)
+
 ## 2. Dataset Description
 For this challenge, participants were provided with (simulated) manufacturing control data that can be clustered into different control states. The objective was to cluster the data into these control states without any training data or prior knowledge of the number of possible control states. This simulates a real-world scenario of unsupervised clustering.
 
